@@ -1,5 +1,12 @@
 {
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "C7.C": "cpp",
+        "C6.C": "cpp",
+        "C3.C": "cpp",
+        "C4.C": "cpp",
+        "C5.C": "cpp",
+        "B5-1.C": "cpp",
+        "B5-2.C": "cpp"
     }
 }
