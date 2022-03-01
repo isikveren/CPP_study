@@ -1,9 +1,8 @@
 #include <iostream>
 
-int main()
-{
-    char a = 'a';
-    std::cout << (int)a << std::endl;
+int main(){
 
+    std::cout<<"hello world!"<<std::endl;
     return 0;
+
 }
