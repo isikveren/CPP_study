@@ -8,7 +8,7 @@ int main(){
     vector<std::string> svec(10,"hello");
 
     std::cout<<ivec.size()<<std::endl;
-
+  
     for(int i = 0;i<10;i++){
         std::cout<<ivec[i];
     }
