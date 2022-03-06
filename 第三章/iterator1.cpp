@@ -15,7 +15,9 @@ int main()
              it++;
         }
     }
-
-    cout << s << endl;
+    for(auto iit = s.cbegin();iit !=s.cend();++iit)
+    {
+        cout << *iit <<endl;
+    }
     return 0;
 }
