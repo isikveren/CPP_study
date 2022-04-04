@@ -5,7 +5,7 @@
 int main()
 {
     FILE *fp;
-    fp = fopen("/Users/liuxunzi/program/c-primer/1/随机温度.txt", "w+");
+    fp = fopen("随机温度.txt", "w+");
     //int sum = 0, value = 0;
     time_t t;
     srand((unsigned)time(&t));
